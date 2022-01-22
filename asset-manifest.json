@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/movies/static/js/main.fcb8e702.js",
-    "index.html": "/movies/index.html",
-    "main.fcb8e702.js.map": "/movies/static/js/main.fcb8e702.js.map"
+    "main.js": "/movies.git/static/js/main.fcb8e702.js",
+    "index.html": "/movies.git/index.html",
+    "main.fcb8e702.js.map": "/movies.git/static/js/main.fcb8e702.js.map"
   },
   "entrypoints": [
     "static/js/main.fcb8e702.js"
